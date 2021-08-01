@@ -1,0 +1,1 @@
+Examples on JUnit 4 in order to get familiar with the main testing frameworks used throughout the book.
